@@ -5,6 +5,11 @@
         "branch":      "5.1"
     },
     {
+        "repository": "LiquidSmooth-Devices/android_device_samsung_exynos5420-common",
+        "target_path": "device/samsung/exynos5420-common",
+        "branch": "5.1"
+    },
+    {
         "repository": "CyanogenMod/android_hardware_samsung",
         "target_path": "hardware/samsung",
         "branch":      "cm-12.1"
