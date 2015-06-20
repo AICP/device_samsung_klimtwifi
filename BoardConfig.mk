@@ -39,11 +39,6 @@ BOARD_FLASH_BLOCK_SIZE := 4096
 TARGET_POWERHAL_VARIANT := klimtwifi
 
 include device/samsung/exynos5420-common/sepolicy/sepolicy.mk
-BOARD_SEPOLICY_DIRS += \
-	device/samsung/klimtwifi/sepolicy
-
-BOARD_SEPOLICY_UNION += \
-	file_contexts
 
 # inherit from the proprietary version
 -include vendor/samsung/klimtwifi/BoardConfigVendor.mk
