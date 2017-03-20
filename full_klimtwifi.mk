@@ -21,4 +21,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Sean Hoyt (deadman96385),Darragh McGee (DarkExistence)"
+    DEVICE_MAINTAINERS="Darragh McGee (DarkExistence)"
